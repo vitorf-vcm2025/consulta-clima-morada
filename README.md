@@ -3,7 +3,7 @@ Uma aplicação de desktop simples e útil, construída com Python e CustomTkint
 
 Este projeto foi desenvolvido para demonstrar a capacidade de consumir e integrar múltiplas APIs de serviços web numa única interface gráfica.
 
-🎬 Demons![demosntração](https://github.com/user-attachments/assets/4a07cccd-fb1e-40c4-b2e3-e7a566647e36)
+[demosntração](https://github.com/user-attachments/assets/4a07cccd-fb1e-40c4-b2e3-e7a566647e36)
 tração
 
 
