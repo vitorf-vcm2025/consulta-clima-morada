@@ -2,6 +2,7 @@
 Uma aplicação de desktop simples e útil, construída com Python e CustomTkinter, que permite aos utilizadores obterem a morada completa e a previsão do tempo atual para qualquer localidade no Brasil a partir de um CEP.
 
 Este projeto foi desenvolvido para demonstrar a capacidade de consumir e integrar múltiplas APIs de serviços web numa única interface gráfica.
+![demosntração](https://github.com/user-attachments/assets/c24177c3-7fcd-4f67-9e15-c25bc5644bb6)
 
 
 ✨ Funcionalidades Principais
